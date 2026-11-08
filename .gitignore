@@ -66,3 +66,15 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# macOS and Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Adobe SDK: never commit it, not even in history
+/sdk/
+/ext/*SDK*/
+
+# Local translation drafts
+/a.md
