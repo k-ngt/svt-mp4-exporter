@@ -1,20 +1,36 @@
-AdobeWebM
-=========
+# svt-mp4-exporter
 
-This is a project where I'm building plug-ins for Google's [WebM](http://www.webmproject.org/) format to be used inside the various Adobe applications.
+Adobe Media Encoder および Premiere Pro 向けの, SVT-AV1 ビデオと AAC オーディオを MP4 に書き出すエクスポートプラグイン.
+macOS を対象としています.
 
+Media Encoder から SVT-AV1 と AAC を書き出したかったため, このプロジェクトを開始しました.
 
-Download
---------
+## ステータス
 
-[WebM plug-in on fnord.com](http://fnord.com)
+このプロジェクトは現在開発中であり, まだ上記の機能は実現できていません.
+リポジトリにはまだアップストリームの WebM プラグインのコードが残っており, ダウンロード可能なビルドはありません.
 
+## 起源
 
-License
--------
-BSD
+本プロジェクトは, Brendan Bolles 氏による [AdobeWebM](https://gitlab.com/fnordware/AdobeWebM) のフォークです.
+アップストリームのコミット 2e8e15b から開始しており, アップストリームのコミット履歴は含まれていません.
 
+このプロジェクトは, アップストリームのプロジェクトや Adobe と提携・承認されているものではありません.
 
-Author
-------
-Brendan Bolles
+## ビルド方法
+
+ビルド手順はまだ用意されていません.
+Adobe Premiere Pro C++ SDK は本リポジトリに含まれていないため, ご自身で Adobe からダウンロードする必要があります.
+
+## サポートと貢献
+
+本プロジェクトは無保証および無サポートです.
+
+Issue や Pull Request は大歓迎です.
+特にパフォーマンス改善や新機能の追加をお待ちしています.
+時間が取れる際にレビューを行います.
+時間の都合やプロジェクトの方向性に合わない場合は, 変更を受け入れられないことがあります.
+
+## ライセンス
+
+BSD 2-Clause License. [LICENSE](LICENSE) を参照してください.
