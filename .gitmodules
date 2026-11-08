@@ -1,0 +1,24 @@
+[submodule "ext/libvpx"]
+	path = ext/libvpx
+	url = https://chromium.googlesource.com/webm/libvpx.git
+[submodule "ext/libwebm"]
+	path = ext/libwebm
+	url = https://chromium.googlesource.com/webm/libwebm.git
+[submodule "ext/libvorbis"]
+	path = ext/libvorbis
+	url = https://github.com/xiph/vorbis.git
+[submodule "ext/libogg"]
+	path = ext/libogg
+	url = https://github.com/xiph/ogg.git
+[submodule "ext/opus"]
+	path = ext/opus
+	url = https://github.com/xiph/opus.git
+[submodule "ext/aom"]
+	path = ext/aom
+	url = https://aomedia.googlesource.com/aom
+[submodule "ext/SVT-AV1"]
+	path = ext/SVT-AV1
+	url = https://gitlab.com/AOMediaCodec/SVT-AV1.git
+[submodule "ext/libvpl"]
+	path = ext/libvpl
+	url = https://github.com/intel/libvpl.git

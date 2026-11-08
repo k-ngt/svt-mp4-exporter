@@ -1,2 +1,20 @@
-# svt-mp4-exporter
-Adobe Media EncoderおよびPremiere Pro (macOS) 向けSVT-AV1 + AAC MP4書き出しプラグイン. fnordware/AdobeWebMのフォーク.
+AdobeWebM
+=========
+
+This is a project where I'm building plug-ins for Google's [WebM](http://www.webmproject.org/) format to be used inside the various Adobe applications.
+
+
+Download
+--------
+
+[WebM plug-in on fnord.com](http://fnord.com)
+
+
+License
+-------
+BSD
+
+
+Author
+------
+Brendan Bolles
